@@ -1,0 +1,5 @@
+{
+  "name": "Cognitive Assessment Suite",
+  "description": "A suite of three browser-based perceptual and cognitive ability games inspired by professional assessments: Invisible Maze, Arrow Path Puzzle, and Numerical Bubble Sort.",
+  "requestFramePermissions": []
+}
